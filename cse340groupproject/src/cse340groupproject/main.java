@@ -1,5 +1,6 @@
 package cse340groupproject;
 
-public class main {
-
+public class main 
+{
+	test;
 }
